@@ -1,3 +1,5 @@
+> **This fork is not maintained.** It exists for one change: the Metal IQ1_M expert gate/up instantiations ([#4886](https://github.com/Niko1221/Strata/pull/4886)), which is in the release — it landed as [`88c4e7939`](https://github.com/Niko1221/Strata/commit/88c4e793989bac3b41c5e84f574f78c8c5083d90) in Strata **0.2.16** (the same three files, the same 27 lines), with the follow-up [`e9eff1850`](https://github.com/Niko1221/Strata/commit/e9eff1850) for the long-prompt `mm_gu3` chain. Use the main repository: [Niko1221/Strata](https://github.com/Niko1221/Strata).
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="app/host/public/brand/strata-lockup-dark.svg">
